@@ -6,13 +6,13 @@ main:
   - title: "Presentations"
     url: /presentations/
 
-  - title: "Psych 485 Project"
-    url: https://uwaterloo.ca/
+  - #title: "Psych 485 Project"
+    #url: https://uwaterloo.ca/
 
   - title: "CV"
     url: /files/CV-Heitzner-J.pdf
 
-  - title: "Test"
-    url: https://jackieheitzner.github.io/Psych-485-project/
+  - #title: "Test"
+    #url: https://jackieheitzner.github.io/Psych-485-project/
 
 
