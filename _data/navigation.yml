@@ -6,8 +6,8 @@ main:
   - title: "Presentations"
     url: /presentations/
 
-  - #title: "Psych 485 Project"
-    #url: https://uwaterloo.ca/
+  - title: "Demo"
+    url: /demo/
 
   - title: "CV"
     url: /files/CV-Heitzner-J.pdf
