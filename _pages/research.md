@@ -11,4 +11,4 @@ My research interests in my undergraduate degree mostly fall under a cognitive n
 
 **Current Projects**
 
-[How clinical and cognitive psychologists define attention.](https://jackieheitzner.github.io/Psych-485-project/)
+[Handout for How to Build a Website.](https://jackieheitzner.github.io/Psych-485-project/)
