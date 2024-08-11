@@ -9,6 +9,4 @@ My research interests in my undergraduate degree mostly fall under a cognitive n
  * How motivation can be manipulated or boosted in online learning.
  * How best practices for education pedagogy can be applied to teaching and supporting the development of teaching assistants.
 
-**Current Projects**
 
-[Handout for How to Build a Website.](https://jackieheitzner.github.io/Psych-485-project/)
